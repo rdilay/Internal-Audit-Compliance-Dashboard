@@ -8,8 +8,7 @@ A Tableau dashboard designed to monitor internal audit performance across multip
 
 This dashboard provides a bird’s-eye view of audit compliance using visual summaries and breakdowns by site, country, reviewer, and control type.
 
-![Dashboard Preview](<img width="1199" height="1396" alt="internal audit dashboard" src="https://github.com/user-attachments/assets/bee88ec2-b35e-418d-b1e8-85e703fbd184" />
-)
+![Dashboard Preview](https://github.com/user-attachments/assets/bee88ec2-b35e-418d-b1e8-85e703fbd184)
 
 ## 📁 About the Dataset
 
