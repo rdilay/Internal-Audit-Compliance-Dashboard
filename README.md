@@ -16,7 +16,7 @@ The dataset includes control testing results from an internal audit process. It 
 
 - Reviewer names
 - Site locations (with country-level mapping)
-- Control test IDs and outcomes (Pass, Fail, Incomplete)
+- Control test IDs and outcomes (Compliant, With Issues, Not Yet Started)
 - Cash discrepancies per transaction
 - Risk ratings assigned per control
 
